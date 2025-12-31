@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "llm-council": {
+      "command": "uv",
+      "args": ["run", "llm-council-mcp"],
+      "env": {
+        "OPENROUTER_API_KEY": "sk-or-v1-your-key-here"
+      }
+    }
+  }
+}
